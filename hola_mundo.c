@@ -9,6 +9,6 @@
 
 int main(void)
 {
-    printf("Hola Mundo remoto desde GitHub.com\n");
+    printf("Elaborado por el Ing. Alexander López\n");
     return 0;
 }
